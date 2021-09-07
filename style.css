@@ -1,0 +1,24 @@
+.jumbotron {
+
+	background-image:url('img/oa.jpg');
+	background-size: cover;
+}
+
+
+.about{
+	margin-top: -1rem;
+	background-image: url('img/io.jpg');
+	background-size: cover;
+}
+
+.project {
+	background-image: url('img/upgrade.jpg');
+	background-size: cover;
+}
+}
+#contact {
+  background-color: #f3f4f5;
+}
+section {
+  padding-top: 4rem;
+}
